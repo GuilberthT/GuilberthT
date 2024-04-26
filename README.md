@@ -9,7 +9,7 @@
 <div>
 <b>About me</b>
 
-- 👦🏽 Eu sou Guilberth Willian Ferreira Tavares, tenho 23 anos moro em Campo Grande - MS.
+- 👦🏽 Eu sou Guilberth Willian Ferreira Tavares, tenho 23 anos, moro em Campo Grande - MS.
 - ⚖ Eu me formei em Direito em 2022, mas estou no processso de migração para a area de tecnologia.
 - 👯 Estou procurando colaborar em projetos de código aberto.
 -  👨🏽‍💻 Estou fazendo um curso full-stack e estudando Java.
